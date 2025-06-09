@@ -43,13 +43,13 @@ pip install pandas numpy matplotlib seaborn torch tensorflow nltk scikit-learn w
 
 ## Running the Notebooks
 
-1. **Exploratory Data Analysis**:  
+1. **Exploratory Data Analysis**:
    Open and run all cells in `EDA_FinalProject_TeamH.ipynb` to explore and preprocess the data.
 
-2. **Model Training and Evaluation**:  
+2. **Experiments**:
    Open and run all cells in `Models_FinalProject_TeamH.ipynb` to train the LSTM-based models and evaluate their performance.
 
-3. **Results**:  
+3. **Results**:
    Output figures and model artifacts will be saved in the `results/` directory.
 
 ## Notes
