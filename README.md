@@ -30,7 +30,9 @@ Install the following Python packages:
 - scikit-learn
 - wordcloud
 
-You can install them using pip:
+If you are not working on Google Colab, consider using the installation guide on (https://pytorch.org/) to properly install PyTorch with GPU integration 
+
+You can install the rest using pip:
 
 ```sh
 pip install pandas numpy matplotlib seaborn torch tensorflow nltk scikit-learn wordcloud
